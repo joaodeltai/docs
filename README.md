@@ -1,4 +1,6 @@
-# Mintlify Starter Kit
+# Documentação do Studiefy
+
+Este é o repositório de documentação oficial do Studiefy, uma plataforma de estudos para vestibulares e ENEM.
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
